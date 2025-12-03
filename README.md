@@ -21,3 +21,9 @@ Add your dataset in the project folder or update the path in the notebook.
 1. Add more plant classes
 2. Improve model accuracy
 3. Convert to a web or mobile app
+
+## 📄 Research Paper
+The detailed explanation of the model, methodology, and results can be found in the research paper.
+
+**License**
+MIT LICENSE
